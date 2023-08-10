@@ -5,6 +5,12 @@ password generator for module 03
 https://bcoppens34.github.io/HW-3-Password-Generator/
 https://github.com/bcoppens34/HW-3-Password-Generator
 
+## Sources Used
+https://www.w3schools.com/jsref/met_win_prompt.asp
+https://www.w3schools.com/jsref/met_win_alert.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
