@@ -3,7 +3,7 @@ password generator for module 03
 
 ## Deployed Links
 https://bcoppens34.github.io/HW-3-Password-Generator/
-
+https://github.com/bcoppens34/HW-3-Password-Generator
 
 ## Your Task
 
